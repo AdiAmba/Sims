@@ -1,0 +1,60 @@
+******************************************************
+This is a demonstration project for study purpose only
+******************************************************
+******************************************************
+
+
+	Find The File At Given Location
+	"F:\Excel_Files\StudentRec.xls"
+
+
+******************************************************
+******************************************************
+	Student Information Management System
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+******************************************************
+******************************************************
+		Enter New				
+	       ~~~~~~~~~~~~
+Opens up a window that allows us to enter student info
+which is directly written to an excel sheet which is 
+stored at the above location by name of "StudentRec.xls".
+After inserting the information do submit the data by 
+cliking the Submit button, or cancel entry using the
+Cancel button. If in any case this window is closed 
+uexpectedly all the data of the file may be lost and 
+never be retrieved. Therefore do take a backup of the 
+excel file.
+
+
+******************************************************
+******************************************************
+		Check Status
+	       ~~~~~~~~~~~~~~~
+Allows us to check student information and his fee status
+and change fee status by paying the fees. The fee amount 
+is also altered in response to any discount or additional 
+late fee fine that may be applicable to the student by the
+institutions.
+
+
+******************************************************
+******************************************************   
+		Fee Calculator
+	       ~~~~~~~~~~~~~~~~
+It is simple calculator that calculates the total payable
+fee by adding 18% of GST to the entered fee amount.
+Total Fee = Fee Entered + 18% of GST
+
+
+******************************************************
+******************************************************
+		   WARNING
+	          
+Do remember to logout of the Navigator window when not
+in use  for the protection of student information.
+		  
+
+******************************************************
+******************************************************
